@@ -1,0 +1,1 @@
+The jqUploader file has been modified - the path to the SWF has been changed to reflect it's place in the Jojo file structure. Please make this change again when updating this package.
